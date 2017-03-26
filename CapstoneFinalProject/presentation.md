@@ -56,6 +56,6 @@ Application Examples
 
 <ol>
   <li><a href="https://sairampraneeth.shinyapps.io/CapstoneFinalProject/">Link to the Application hosted on Shiny IO</a></li>
-  <li><a href="">The Github Link to the Capstone Project</a></li>
-  <li>Thank you and have a good day!!!</li>
+  <li><a href="https://github.com/sairampraneeth/DataScienceSpecializationFinalCapstoneProject">The Github Link to the Capstone Project</a></li>
+  <li>Thank you and have a good day!!</li>
 </ol>
